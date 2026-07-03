@@ -317,3 +317,5 @@ MIT — see [LICENSE](LICENSE)
 [Splunk Agentic Ops Hackathon](https://splunk.devpost.com) — Security Track · June 2026
 
 Originally developed for [SPLUNK! Hackathon](https://splunk.devpost.com/) —Cisco Company · April–June 2026
+
+<!-- docs pass: 2026-07-03T04:33:26Z -->
